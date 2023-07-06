@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Lumarconi21
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Front End Development
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on new projects
 - 📫 How to reach me: lumarconi21@gmail.com
 
 <!---
