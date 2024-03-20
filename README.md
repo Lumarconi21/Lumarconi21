@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Lumarconi21
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Full Stack Development
+- I'm a Full-Stack Developer Junior
 - 📫 How to reach me: lumarconi21@gmail.com
 
 <!---
