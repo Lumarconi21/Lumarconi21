@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lumarconi21
 - I'm a Full-Stack Developer
-- My portfolio: https://portfolio-bkgeui2m5-lucias-projects-ca52aaac.vercel.app/
+- My portfolio: https://luciamarconi.com/
 - 📫 How to reach me: lumarconi21@gmail.com
 
 <!---
