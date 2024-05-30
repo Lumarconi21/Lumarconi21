@@ -1,8 +1,9 @@
 <div align="center">
 <h1> Hi, I’m @Lumarconi21 👋 </h1>
 <h3> Full-Stack Developer </h3>
-<h3>Check out my portfolio:</h3>
+<h4>Check out my portfolio:</h4>
 <a><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<h4>My Linkedin:</h4>
 <a><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"></a>
 
 </div>
