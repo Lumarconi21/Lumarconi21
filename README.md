@@ -1,9 +1,9 @@
+<div>
 <h1> Hi, I’m @Lumarconi21 👋 </h1>
 <h2> Full-Stack Developer </h2>
+</div>
 
-
-<img src="https://img.shields.io/badge/Linkedin-blue
-"/>   
+<img src="https://img.shields.io/badge/Linkedin-blue">   
 
 
 
