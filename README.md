@@ -1,4 +1,4 @@
-<div>
+<div align="center">
 <h1> Hi, I’m @Lumarconi21 👋 </h1>
 <p> Full-Stack Developer <p>
 <a><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"></a>
@@ -8,8 +8,8 @@
 
 
 
-<h2>Stack & Tools</h2>
-<div>
+<h2 align="center">Stack & Tools</h2>
+<div align="center">
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -28,8 +28,8 @@
 
 
 
-
-<p>📫 Get in touch: lumarconi21@gmail.com</p>
+<h2 align="center">Get in touch 📫</h2>
+<p align="center">lumarconi21@gmail.com</p>
 
 <!---
 Lumarconi21/Lumarconi21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
