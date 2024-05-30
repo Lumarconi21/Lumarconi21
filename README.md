@@ -1,5 +1,14 @@
-- 👋 Hi, I’m @Lumarconi21
-- I'm a Full-Stack Developer
+<h1> Hi, I’m @Lumarconi21 👋 </h1>
+<h2> Full-Stack Developer </h2>
+
+
+
+
+
+
+
+
+
 - My portfolio: https://luciamarconi.com/
 - 📫 How to reach me: lumarconi21@gmail.com
 
