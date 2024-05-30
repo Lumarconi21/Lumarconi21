@@ -3,7 +3,9 @@
 <h2> Full-Stack Developer </h2>
 </div>
 
-<a href="https://www.linkedin.com/in/lumarconi21/"><img src="https://img.shields.io/badge/Linkedin-blue"></a>
+<a target="_blank" href="https://www.linkedin.com/in/lumarconi21/"><img src="https://img.shields.io/badge/Linkedin-blue"></a>
+<a target="_blank" href="https://www.linkedin.com/in/lumarconi21/"><img src="https://img.shields.io/badge/Portfolio-black"></a>
+
 
 
 
