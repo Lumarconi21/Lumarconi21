@@ -29,8 +29,7 @@
 
 
 
-- My portfolio: https://luciamarconi.com/
-- 📫 How to reach me: lumarconi21@gmail.com
+<p>📫 Get in touch: lumarconi21@gmail.com</p>
 
 <!---
 Lumarconi21/Lumarconi21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
