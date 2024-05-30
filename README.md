@@ -1,10 +1,11 @@
 <div>
 <h1> Hi, I’m @Lumarconi21 👋 </h1>
-<h2> Full-Stack Developer </h2>
+<p> Full-Stack Developer <p>
+<a><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"></a>
+<a><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
-<a target="_blank" href="https://www.linkedin.com/in/lumarconi21/"><img src="[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)"></a>
-<a target="_blank" href="https://www.linkedin.com/in/lumarconi21/"><img src="[https://img.shields.io/badge/Portfolio-white](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)"></a>
+
 
 
 <h2>Stack & Tools</h2>
