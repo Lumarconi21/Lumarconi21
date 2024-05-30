@@ -2,7 +2,8 @@
 <h2> Full-Stack Developer </h2>
 
 
-
+<img src="https://img.shields.io/badge/Linkedin-blue
+"/>   
 
 
 
